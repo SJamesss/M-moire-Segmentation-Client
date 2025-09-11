@@ -1,6 +1,3 @@
-# Mémoire-Segmentation-Client
-Projet de segmentation client dans le retail par clustering (K-Means). Notebook technique pour un mémoire de Master en Intelligence Artificielle.
-
 # Segmentation Client par Apprentissage Non Supervisé
 Ce projet a été réalisé dans le cadre d'un mémoire pour le **Master 2 Chef de Projet en Intelligence Artificielle** d'Eugenia School (2024-2025).
 
